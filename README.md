@@ -10,6 +10,7 @@ never leaves the screen. The turns of the fox are controlled by the player. The 
 ends when the fox is placed at the same coordinates as the rabbit. Implement the
 keyboard reading function as a concurrent thread in order to make it independent from
 the animation.
+
 The output of the game is produced on the standard output stream. Use escape
 characters to position symbols on the screen. Use the example code to set up the
 appropriate keyboard mode. Use a separate thread to read the keyboard. Use a global
@@ -19,6 +20,8 @@ Slow interface emulation program. Source code template is given.
 ACM. Design it using the appropriate number of slots and the slot size. In the report
 explain and discuss the operation and the effect of ACM on the system performance.
 Derive a Petri net model of the ACM.
+
+A share price watcher was set up to determine whether signal ACMs lose data and to explore the negative effects of signal ACMs on eliminating latency
 
 HOWTO?
 The following are a few hints of advisory nature. You don’t need to follow them.
