@@ -1,4 +1,4 @@
-# 3009ACM
+# EEE3009 Real Time and Embedded Systems Project Asynchronous data communication mechanisms(ACM)
 EEE3009
 Detailed specification of the game, ACM and the communication system will be given
 and discussed in a lecture.
